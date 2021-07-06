@@ -1,0 +1,12 @@
+{
+  "slice_size": 10,
+  "step_size": 1,
+  "attack_score": 1,
+  "fields": [
+    {
+      "name": "number_of_satellites",
+      "threshold": 0.01,
+      "score": 1
+    }
+  ]
+}
